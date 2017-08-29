@@ -1,2 +1,6 @@
 # Story
-The DawnKlein story.
+The Dawn Klein story.
+
+Entire story, in progress, is stored in DawnKlein.md
+
+Each chapter is in a seperate HTML file, saved as Chapter[ChapterNumber].html
